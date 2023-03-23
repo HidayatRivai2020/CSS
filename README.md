@@ -18,10 +18,17 @@
 
 ## CSS Style
 
-## CSS Color
+### [Color](https://github.com/HidayatRivai2020/CSS/blob/main/color.html)
 - `color`: set color of the text
 - `background-color`: set the color of text background
+- `border-color`: set color of the border
 - `color` values:
     - color name: the name of color in english
     - rgb: combination of red, green, blue
     - hex code:  using # and hex code
+
+### [Border](https://github.com/HidayatRivai2020/CSS/blob/main/border.html)
+- `border-color`: set color of the border
+- `border-width`: set the width of border
+- `border-style`: set the style of border
+    - `dashed`

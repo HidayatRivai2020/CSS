@@ -4,6 +4,9 @@ h1 {
 }
 h2 {
     color: #595545;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-style: dashed;
 }
 h3 {
     color: rgb(123, 50, 250);
