@@ -56,7 +56,7 @@
 ### ID
 - `id=""`: HTML attribute to set the id of tags
 - unique, only for one tag
-- use `#` to use id in CSS
+- using `#` to use id in CSS
 
 ## [CSS Box Model](https://github.com/HidayatRivai2020/CSS/blob/main/box-model.html))
 - `content`: the raw object
